@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abrunso6
+- 👋 Hi, I’m Autumn. 
 - 👀 I’m interested in AI & Machine Learning.
 - 🌱 I’m currently learning AI/ML Engineering.
 - 💞️ I’m looking to collaborate on the development of a Large Language Model. 
