@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Autumn. 
+- 👋 Hi, I’m Autumn.
 - 👀 I’m interested in AI & Machine Learning.
 - 🌱 I’m currently learning AI/ML Engineering.
-- 💞️ I’m looking to collaborate on the development of a Large Language Model. 
+- 💞️ I’m looking to collaborate on the development of a Large Language Model for Pi Network.
 - 📫 How to reach me: autumnbrunson1@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Mining Pi since 2020⚡️
+- ⚡ Fun fact: Mining Pi since 2020.⚡️
 
 <!---
 abrunso6/abrunso6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
