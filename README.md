@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the development of a Large Language Model. 
 - 📫 How to reach me: autumnbrunson1@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am published in 2 Neuroscience/Stroke Journals :) 
+- ⚡ Fun fact: Mining Pi since 2020⚡️
 
 <!---
 abrunso6/abrunso6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
